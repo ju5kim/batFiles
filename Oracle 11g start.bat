@@ -1,0 +1,5 @@
+net start OracleServiceORCL
+net start OracleOraDb11g_home1TNSListener
+net start OracleMTSRecoveryService
+net start OracleOraDb11g_home1ClrAgent
+net start OracleDBConsoleorcl
